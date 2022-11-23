@@ -99,7 +99,7 @@ function Footer() {
                             </p>
                             <p>
                               <span className="fa fa-envelope" />
-                              wahab3060@gmail.com
+                              denis.medya@gmail.com
                             </p>
                           </address>
                           <div className="aa-footer-social">
@@ -133,7 +133,7 @@ function Footer() {
                 <div className="aa-footer-bottom-area">
                   <p>
                     Designed by{" "}
-                    <a href="https://github.com/AbdulWahab0">Abdul Wahab</a>
+                    <a href="https://github.com/MedyaSan">Denis</a>
                   </p>
                   <div className="aa-footer-payment">
                     <span className="fa fa-cc-mastercard" />
